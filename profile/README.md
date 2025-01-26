@@ -1,6 +1,14 @@
-## Hi there 👋
+# Game Dev Repo Bundles
 
-TEST README TEXT :)
+### Dev References
+- Inflearn
+  - [(게이머TV) 2. 유니티가 어려운 입문자를 위한 입문용 게임 제작](https://inf.run/4bSga)
+  - [(고박사) 따라하면서 배우는 고박사의 유니티 하이퍼캐주얼게임 시리즈 03](https://inf.run/P6gD9)
+- Udemy
+  - [Complete C# Unity Game Developer 3D (Updated To Unity 6)](https://www.udemy.com/course/unitycourse2/?couponCode=KEEPLEARNING)
+
+~~Youtubers~~
+
 
 <!--
 
