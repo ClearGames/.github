@@ -13,12 +13,12 @@
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/ClearGames/StackBall"><img src="https://drive.google.com/thumbnail?id=1xRFUOHFUtCc_fsucF4Z4mNWuK9bEMerH"/></a></td>
-    <td align="center"><a traget="_blank" href="https://github.com/ClearGames/Kimchi-Run"><img src="https://drive.google.com/thumbnail?id=181Q1_J5_uz7sqSx0cRaT0T1nNYZKDO0n"/></a></td>
+    <td align="center"><a target="_blank" href="https://github.com/ClearGames/Kimchi-Run"><img src="https://drive.google.com/thumbnail?id=181Q1_J5_uz7sqSx0cRaT0T1nNYZKDO0n"/></a></td>
     <td align="center"></td>
   </tr>
   <tr>
     <td align="center"><a target="_blank" href="https://github.com/ClearGames/StackBall">StackBall</a></td>
-    <td align="center"><a traget="_blank" href="https://github.com/ClearGames/Kimchi-Run">KimchiRun</a></td>
+    <td align="center"><a target="_blank" href="https://github.com/ClearGames/Kimchi-Run">KimchiRun</a></td>
     <td></td>
   </tr>
 </table>
@@ -55,19 +55,19 @@
 <table align="center">
   <tr>
     <td>
-      <a href="_blank" target="https://www.youtube.com/@yamyamcoding">얌얌코딩 (게임 개발)</a>
+      <a target="_blank" href="https://www.youtube.com/@yamyamcoding">얌얌코딩 (게임 개발)</a>
     </td>
     <td>
-      <a href="_blank" target="https://www.youtube.com/@i_am_gamer_TV">게이머TV</a>
+      <a target="_blank" href="https://www.youtube.com/@i_am_gamer_TV">게이머TV</a>
     </td>
     <td>
-      <a href="_blank" target="https://www.youtube.com/@unitynote">고박사의 유니티 노트</a>
+      <a target="_blank" href="https://www.youtube.com/@unitynote">고박사의 유니티 노트</a>
     </td>
     <td>
-      <a href="_blank" target="https://www.youtube.com/@goldmetal">골드메탈</a>
+      <a target="_blank" href="https://www.youtube.com/@goldmetal">골드메탈</a>
     </td>
     <td>
-      <a href="_blank" target="https://www.youtube.com/@UnityKoreaHi">유니티코리아</a>
+      <a target="_blank" href="https://www.youtube.com/@UnityKoreaHi">유니티코리아</a>
     </td>
   </tr>
 </table>
