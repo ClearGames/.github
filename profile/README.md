@@ -24,7 +24,7 @@
 </table>
 <hr/>
 
-<img align="right" width="500px" src="https://github.com/user-attachments/assets/867f28dd-51bb-4366-9178-9914dd8d2720"/>
+<img align="right" width="400px" src="https://github.com/user-attachments/assets/867f28dd-51bb-4366-9178-9914dd8d2720"/>
 
 ### ✍ Ref - Educational Platform
 - Inflearn
